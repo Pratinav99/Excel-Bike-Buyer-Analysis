@@ -1,7 +1,5 @@
 # Excel-Bike-Buyer-Analysis
 
-# Pedal Power Insights
-
 ## Introduction
 
 Welcome to the "Pedal Power Insights" project! This project is a comprehensive analysis of a dataset containing information about bike buyers. The data includes various demographic and economic factors that may influence an individual's decision to purchase a bike. Using Excel, the project involves data cleaning, preprocessing, pivot table creation, and dashboard design to uncover trends and insights.
@@ -39,7 +37,6 @@ To explore the project, follow these steps:
 1. Clone the repository: `git clone https://github.com/PratinavJinwal/Excel-Project.git`
 2. Open the Excel file `Excel Project.xlsx` to review the data, pivot tables, and dashboard.
 
-## Feedback
 
 I welcome feedback and suggestions to improve the analysis and insights provided in this project. Feel free to open issues or submit pull requests.
 
